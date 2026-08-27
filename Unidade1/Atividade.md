@@ -16,7 +16,7 @@ modelagens. Ferramentas Case de apoio ao desenho dos diagramas UML.
 
 | Campo | Preenchimento |
 |---|---|
-| Nome do sistema | Sistema de Barbearia |
+| Nome do sistema | Sistema Biblioteca|
 | Objetivo | Gerenciar cadastro de usuários, livros, empréstimos, devoluções e multas. |
 | Público-alvo | Alunos, bibliotecários e administradores. |
 | Responsável pelo levantamento | Grupo de estudantes |
