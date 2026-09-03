@@ -15,7 +15,7 @@ Este projeto é um trabalho acadêmico da disciplina **Engenharia de Software** 
 - **Status:** Em Desenvolvimento
 
 ### 📍 **WHERE** (Onde?)
-- **Localização do Repositório:** [GitHub - Analise_Projeto_Sistemas](https://github.com/Kadidjah/Analise_Projeto_Sistemas)
+- **Localização do Repositório:** [GitHub - Analise_Projeto_Sistemas](https://github.com/Jp-ctrl10/Analise_Projeto_Sistema)
 - **Estrutura:** Disponível na pasta `ProjetoAPS`
 
 ### 🎯 **WHY** (Por Quê?)
