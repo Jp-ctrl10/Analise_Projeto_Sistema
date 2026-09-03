@@ -3,7 +3,7 @@
 ## 5W - Estrutura do Projeto
 
 ### 🔍 **WHAT** (O Quê?)
-Este projeto é um trabalho acadêmico da disciplina **Engenharia de Software** da Universidade de Brasília (UnB/UDF). Ele consiste em uma análise e desenvolvimento de um sistema que aplica princípios fundamentais de engenharia de software.
+Este projeto é um trabalho acadêmico da disciplina **Engenharia de Software** da Universidade de Brasília (UDF). Ele consiste em uma análise e desenvolvimento de um sistema que aplica princípios fundamentais de engenharia de software.
 
 ### 👥 **WHO** (Quem?)
 - **Desenvolvedor(es):** João Pedro Alves De Sousa, Hélter Brandão De Oliveira, Davi Gonçalves Castro e Jorge Luis Soares do Santos
