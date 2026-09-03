@@ -17,8 +17,8 @@ modelagens. Ferramentas Case de apoio ao desenho dos diagramas UML.
 | Campo | Preenchimento |
 |---|---|
 | Nome do sistema | Sistema de Barbearia |
-| Objetivo | Gerenciar cadastro de usuários, livros, empréstimos, devoluções e multas. |
-| Público-alvo |Gerenciar o cadastro de clientes, profissionais, serviços, agendamentos de horários e controle de pagamentos.|
+| Objetivo |Gerenciar o cadastro de clientes, profissionais, serviços, agendamentos de horários e controle de pagamentos.|
+| Público-alvo |Clientes, barbeiros e administradores.|
 | Responsável pelo levantamento | João Pedro Alves De Sousa, Hélter Brandão De Oliveira e Davi Gonçalves Castro |
 | Versão | 1.0 |
 
