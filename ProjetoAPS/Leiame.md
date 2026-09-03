@@ -6,7 +6,7 @@
 Este projeto é um trabalho acadêmico da disciplina **Engenharia de Software** da Universidade de Brasília (UDF). Ele consiste em uma análise e desenvolvimento de um sistema que aplica princípios fundamentais de engenharia de software.
 
 ### 👥 **WHO** (Quem?)
-- **Desenvolvedor(es):** [João Pedro Alves De Sousa](https://github.com/Jp-ctrl10)
+- **Desenvolvedor(es):** [João Pedro Alves De Sousa](https://github.com/jpedro-swe)
 - [Hélter Brandão De Oliveira](https://github.com/brandao395)
 - [Davi Gonçalves Castro](https://github.com/MF-DAVI)
 - [Jorge Luis Soares do Santos](https://github.com/7deo)
@@ -18,7 +18,7 @@ Este projeto é um trabalho acadêmico da disciplina **Engenharia de Software** 
 - **Status:** Em Desenvolvimento
 
 ### 📍 **WHERE** (Onde?)
-- **Localização do Repositório:** [GitHub - Analise_Projeto_Sistema](https://github.com/Jp-ctrl10/Analise_Projeto_Sistema)
+- **Localização do Repositório:** [GitHub - Analise_Projeto_Sistema](https://github.com/jpedro-swe/Analise_Projeto_Sistema)
 - **Estrutura:** Disponível na pasta `ProjetoAPS`
 
 ### 🎯 **WHY** (Por Quê?)
@@ -59,7 +59,7 @@ ProjetoAPS/
 ### Instalação
 ```bash
 # Clone o repositório
-git clone https://github.com/Jp-ctrl10/Analise_Projeto_Sistema.git
+git clone https://github.com/jpedro-swe/Analise_Projeto_Sistema.git
 
 # Navegue até o projeto
 cd Analise_Projeto_Sistema/ProjetoAPS
@@ -111,7 +111,7 @@ Consulte os arquivos de documentação para:
 
 ## 📞 Contato e Suporte
 
-Para dúvidas sobre o projeto, abra uma [issue](https://github.com/Jp-ctrl10/Analise_Projeto_Sistema/issues) no repositório.
+Para dúvidas sobre o projeto, abra uma [issue](https://github.com/jpedro-swe/Analise_Projeto_Sistema/issues) no repositório.
 
 ---
 
