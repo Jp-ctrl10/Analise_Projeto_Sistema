@@ -19,7 +19,7 @@ modelagens. Ferramentas Case de apoio ao desenho dos diagramas UML.
 | Nome do sistema | Sistema de Barbearia |
 | Objetivo | Gerenciar cadastro de usuários, livros, empréstimos, devoluções e multas. |
 | Público-alvo | Alunos, bibliotecários e administradores. |
-| Responsável pelo levantamento | Grupo de estudantes |
+| Responsável pelo levantamento | João Pedro Alves De Sousa, Hélter Brandão De Oliveira e Davi Gonçalves Castro |
 | Versão | 1.0 |
 
 ---
