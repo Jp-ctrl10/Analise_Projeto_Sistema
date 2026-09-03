@@ -19,7 +19,7 @@ modelagens. Ferramentas Case de apoio ao desenho dos diagramas UML.
 | Nome do sistema | Sistema de Barbearia |
 | Objetivo |Gerenciar o cadastro de clientes, profissionais, serviços, agendamentos de horários e controle de pagamentos.|
 | Público-alvo |Clientes, barbeiros e administradores.|
-| Responsável pelo levantamento | João Pedro Alves De Sousa, Hélter Brandão De Oliveira e Davi Gonçalves Castro |
+| Responsável pelo levantamento | João Pedro Alves De Sousa, Hélter Brandão De Oliveira, Davi Gonçalves Castro e Jorge Luis Soares do Santos|
 | Versão | 1.0 |
 
 ---
