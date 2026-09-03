@@ -18,7 +18,7 @@ modelagens. Ferramentas Case de apoio ao desenho dos diagramas UML.
 |---|---|
 | Nome do sistema | Sistema de Barbearia |
 | Objetivo | Gerenciar cadastro de usuários, livros, empréstimos, devoluções e multas. |
-| Público-alvo | Alunos, bibliotecários e administradores. |
+| Público-alvo |Gerenciar o cadastro de clientes, profissionais, serviços, agendamentos de horários e controle de pagamentos.|
 | Responsável pelo levantamento | João Pedro Alves De Sousa, Hélter Brandão De Oliveira e Davi Gonçalves Castro |
 | Versão | 1.0 |
 
@@ -33,10 +33,10 @@ modelagens. Ferramentas Case de apoio ao desenho dos diagramas UML.
 | Campo | Descrição |
 |---|---|
 | **Identificação** | RF01 |
-| **Descrição** | O sistema deve permitir que o bibliotecário cadastre usuários da biblioteca. |
+| **Descrição** |O sistema deve permitir que o recepcionista ou o próprio cliente cadastre novos usuários na plataforma.|
 | **Prioridade** | Alta |
-| **Critérios de aceitação** | 1. Deve permitir informar nome, matrícula, e-mail e telefone. 2. Deve impedir cadastro sem nome e matrícula. 3. Deve informar ao usuário quando o cadastro for concluído. |
-| **Exemplo** | O bibliotecário informa os dados de um aluno e seleciona **Cadastrar**. O sistema valida os dados e registra o novo usuário. |
+| **Critérios de aceitação** |1. Deve permitir informar nome, e-mail, telefone e senha. 2. Deve impedir o cadastro sem nome e telefone. 3. Deve informar ao usuário quando o cadastro for concluído com sucesso.|
+| **Exemplo** |O cliente preenche seus dados na tela de cadastro e clica em Salvar. O sistema valida as informações e registra a nova conta.|
 
 ## RF02 — Cadastrar livro
 
