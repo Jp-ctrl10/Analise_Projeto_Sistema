@@ -3,7 +3,7 @@
 ## 5W - Estrutura do Projeto
 
 ### 🔍 **WHAT** (O Quê?)
-Este projeto é um trabalho acadêmico da disciplina **Engenharia de Software** da Universidade de Brasília (UnB/UDF). Ele consiste em uma análise e desenvolvimento de um sistema que aplica princípios e boas práticas da engenharia de software.
+Este projeto é um trabalho acadêmico da disciplina **Engenharia de Software** da Universidade de Brasília (UnB/UDF). Ele consiste em uma análise e desenvolvimento de um sistema que aplica princípios fundamentais de engenharia de software.
 
 ### 👥 **WHO** (Quem?)
 - **Desenvolvedor(es):** João Pedro Alves De Sousa, Hélter Brandão De Oliveira, Davi Gonçalves Castro e Jorge Luis Soares do Santos
@@ -15,7 +15,7 @@ Este projeto é um trabalho acadêmico da disciplina **Engenharia de Software** 
 - **Status:** Em Desenvolvimento
 
 ### 📍 **WHERE** (Onde?)
-- **Localização do Repositório:** [GitHub - Analise_Projeto_Sistemas](https://github.com/Jp-ctrl10/Analise_Projeto_Sistema)
+- **Localização do Repositório:** [GitHub - Analise_Projeto_Sistema](https://github.com/Jp-ctrl10/Analise_Projeto_Sistema)
 - **Estrutura:** Disponível na pasta `ProjetoAPS`
 
 ### 🎯 **WHY** (Por Quê?)
@@ -56,10 +56,10 @@ ProjetoAPS/
 ### Instalação
 ```bash
 # Clone o repositório
-git clone https://github.com/Kadidjah/Analise_Projeto_Sistemas.git
+git clone https://github.com/Jp-ctrl10/Analise_Projeto_Sistema.git
 
 # Navegue até o projeto
-cd Analise_Projeto_Sistemas/ProjetoAPS
+cd Analise_Projeto_Sistema/ProjetoAPS
 ```
 
 ### Execução
@@ -108,7 +108,7 @@ Consulte os arquivos de documentação para:
 
 ## 📞 Contato e Suporte
 
-Para dúvidas sobre o projeto, abra uma [issue](https://github.com/Kadidjah/Analise_Projeto_Sistemas/issues) no repositório.
+Para dúvidas sobre o projeto, abra uma [issue](https://github.com/Jp-ctrl10/Analise_Projeto_Sistema/issues) no repositório.
 
 ---
 
