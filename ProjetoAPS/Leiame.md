@@ -8,7 +8,7 @@ Este projeto é um trabalho acadêmico da disciplina **Engenharia de Software** 
 ### 👥 **WHO** (Quem?)
 - **Desenvolvedor(es):** [João Pedro Alves De Sousa](https://github.com/Jp-ctrl10)
 - [Hélter Brandão De Oliveira](https://github.com/brandao395)
-- [Davi Gonçalves Castro](https://github.com/Manofish1)
+- [Davi Gonçalves Castro](https://github.com/MF-DAVI)
 - [Jorge Luis Soares do Santos](https://github.com/7deo)
 - **Instituição:** Centro Universitário UDF 
 - **Disciplina:** Engenharia de Software
