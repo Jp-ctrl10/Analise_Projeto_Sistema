@@ -36,8 +36,7 @@ modelagens. Ferramentas Case de apoio ao desenho dos diagramas UML.
 | **Descrição** |O sistema deve permitir que o recepcionista ou o próprio cliente cadastre novos usuários na plataforma.|
 | **Prioridade** | Alta |
 | **Critérios de aceitação** |1. Deve permitir informar nome, e-mail, telefone e senha. 
-2. Deve impedir o cadastro sem nome e telefone. 
-3. Deve informar ao usuário quando o cadastro for concluído com sucesso.|
+2. Deve impedir o cadastro sem nome e telefone. 3. Deve informar ao usuário quando o cadastro for concluído com sucesso.|
 | **Exemplo** |O cliente preenche seus dados na tela de cadastro e clica em Salvar. O sistema valida as informações e registra a nova conta.|
 
 ## RF02 — Cadastrar livro
